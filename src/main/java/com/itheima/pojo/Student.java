@@ -7,6 +7,8 @@ public class Student {
     //添加1
     //添加2
     //添加5
+    //添加6
+    //添加7
     public Student(String name, String age) {
         this.name = name;
         this.age = age;
