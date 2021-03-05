@@ -7,11 +7,7 @@ public class Student {
     private String xiaoli;
     //分支
 
-    //添加1
-    //添加2
-    //添加5
-    //添加6
-    //添加7
+    //添加
     public Student(String name, String age) {
         this.name = name;
         this.age = age;
